@@ -1,0 +1,301 @@
+[
+  {
+    "cluster": 0,
+    "size": 448,
+    "top_categories": {
+      "rec.autos": 388,
+      "rec.motorcycles": 28,
+      "misc.forsale": 24,
+      "sci.space": 4,
+      "talk.politics.misc": 2
+    },
+    "mean_entropy": 0.15578009615829744
+  },
+  {
+    "cluster": 1,
+    "size": 532,
+    "top_categories": {
+      "talk.politics.misc": 243,
+      "alt.atheism": 141,
+      "sci.med": 57,
+      "talk.religion.misc": 42,
+      "soc.religion.christian": 20
+    },
+    "mean_entropy": 0.10257242093210157
+  },
+  {
+    "cluster": 2,
+    "size": 635,
+    "top_categories": {
+      "comp.graphics": 465,
+      "comp.windows.x": 79,
+      "comp.os.ms-windows.misc": 52,
+      "comp.sys.mac.hardware": 14,
+      "sci.electronics": 6
+    },
+    "mean_entropy": 0.10205149918844653
+  },
+  {
+    "cluster": 3,
+    "size": 839,
+    "top_categories": {
+      "rec.sport.hockey": 776,
+      "rec.sport.baseball": 53,
+      "misc.forsale": 4,
+      "alt.atheism": 1,
+      "rec.motorcycles": 1
+    },
+    "mean_entropy": 0.011907640563366932
+  },
+  {
+    "cluster": 4,
+    "size": 708,
+    "top_categories": {
+      "comp.sys.mac.hardware": 242,
+      "comp.sys.ibm.pc.hardware": 165,
+      "misc.forsale": 149,
+      "sci.electronics": 93,
+      "comp.os.ms-windows.misc": 31
+    },
+    "mean_entropy": 0.3563057680320205
+  },
+  {
+    "cluster": 5,
+    "size": 1041,
+    "top_categories": {
+      "talk.politics.misc": 287,
+      "talk.politics.guns": 163,
+      "sci.crypt": 100,
+      "alt.atheism": 76,
+      "talk.politics.mideast": 76
+    },
+    "mean_entropy": 0.1740267642539666
+  },
+  {
+    "cluster": 6,
+    "size": 278,
+    "top_categories": {
+      "alt.atheism": 121,
+      "sci.med": 54,
+      "talk.religion.misc": 41,
+      "soc.religion.christian": 23,
+      "sci.space": 14
+    },
+    "mean_entropy": 0.07243669502369354
+  },
+  {
+    "cluster": 7,
+    "size": 210,
+    "top_categories": {
+      "talk.politics.mideast": 207,
+      "alt.atheism": 1,
+      "soc.religion.christian": 1,
+      "talk.religion.misc": 1
+    },
+    "mean_entropy": 0.00015181135396560594
+  },
+  {
+    "cluster": 8,
+    "size": 685,
+    "top_categories": {
+      "sci.med": 642,
+      "talk.politics.misc": 14,
+      "sci.space": 8,
+      "rec.motorcycles": 5,
+      "sci.electronics": 4
+    },
+    "mean_entropy": 0.008656145174264416
+  },
+  {
+    "cluster": 9,
+    "size": 654,
+    "top_categories": {
+      "sci.crypt": 619,
+      "comp.sys.ibm.pc.hardware": 6,
+      "talk.politics.guns": 6,
+      "sci.electronics": 5,
+      "sci.space": 4
+    },
+    "mean_entropy": 0.013108483788649644
+  },
+  {
+    "cluster": 10,
+    "size": 348,
+    "top_categories": {
+      "comp.graphics": 74,
+      "comp.os.ms-windows.misc": 52,
+      "sci.space": 43,
+      "misc.forsale": 38,
+      "comp.windows.x": 37
+    },
+    "mean_entropy": 0.23103949430815715
+  },
+  {
+    "cluster": 11,
+    "size": 561,
+    "top_categories": {
+      "soc.religion.christian": 414,
+      "talk.religion.misc": 95,
+      "alt.atheism": 35,
+      "talk.politics.misc": 8,
+      "talk.politics.guns": 6
+    },
+    "mean_entropy": 0.22470382360544433
+  },
+  {
+    "cluster": 12,
+    "size": 766,
+    "top_categories": {
+      "comp.os.ms-windows.misc": 417,
+      "comp.windows.x": 147,
+      "comp.graphics": 63,
+      "comp.sys.ibm.pc.hardware": 46,
+      "sci.electronics": 33
+    },
+    "mean_entropy": 0.10913870114936082
+  },
+  {
+    "cluster": 13,
+    "size": 488,
+    "top_categories": {
+      "misc.forsale": 335,
+      "sci.electronics": 99,
+      "comp.sys.mac.hardware": 17,
+      "sci.crypt": 7,
+      "comp.sys.ibm.pc.hardware": 6
+    },
+    "mean_entropy": 0.24383973679500245
+  },
+  {
+    "cluster": 14,
+    "size": 966,
+    "top_categories": {
+      "talk.politics.guns": 630,
+      "talk.politics.misc": 166,
+      "talk.religion.misc": 54,
+      "sci.crypt": 46,
+      "rec.autos": 26
+    },
+    "mean_entropy": 0.14731020921347324
+  },
+  {
+    "cluster": 15,
+    "size": 663,
+    "top_categories": {
+      "sci.space": 610,
+      "sci.electronics": 12,
+      "talk.politics.misc": 9,
+      "sci.med": 6,
+      "alt.atheism": 5
+    },
+    "mean_entropy": 0.027792723695182885
+  },
+  {
+    "cluster": 16,
+    "size": 543,
+    "top_categories": {
+      "comp.windows.x": 503,
+      "comp.os.ms-windows.misc": 23,
+      "comp.graphics": 9,
+      "comp.sys.ibm.pc.hardware": 5,
+      "sci.crypt": 2
+    },
+    "mean_entropy": 0.07362276012345707
+  },
+  {
+    "cluster": 17,
+    "size": 279,
+    "top_categories": {
+      "comp.sys.ibm.pc.hardware": 177,
+      "comp.sys.mac.hardware": 77,
+      "comp.os.ms-windows.misc": 9,
+      "misc.forsale": 8,
+      "sci.electronics": 6
+    },
+    "mean_entropy": 0.08901473192561074
+  },
+  {
+    "cluster": 18,
+    "size": 674,
+    "top_categories": {
+      "rec.sport.baseball": 655,
+      "rec.sport.hockey": 10,
+      "talk.politics.misc": 4,
+      "sci.space": 2,
+      "sci.med": 1
+    },
+    "mean_entropy": 0.011944979482153995
+  },
+  {
+    "cluster": 19,
+    "size": 1037,
+    "top_categories": {
+      "soc.religion.christian": 400,
+      "alt.atheism": 348,
+      "talk.religion.misc": 210,
+      "talk.politics.guns": 21,
+      "talk.politics.misc": 18
+    },
+    "mean_entropy": 0.187493879439864
+  },
+  {
+    "cluster": 20,
+    "size": 1070,
+    "top_categories": {
+      "rec.motorcycles": 680,
+      "rec.autos": 277,
+      "sci.electronics": 30,
+      "misc.forsale": 25,
+      "sci.space": 10
+    },
+    "mean_entropy": 0.06927397519643261
+  },
+  {
+    "cluster": 21,
+    "size": 1047,
+    "top_categories": {
+      "comp.sys.ibm.pc.hardware": 369,
+      "comp.sys.mac.hardware": 311,
+      "comp.os.ms-windows.misc": 136,
+      "comp.graphics": 109,
+      "sci.electronics": 80
+    },
+    "mean_entropy": 0.22402510891926397
+  },
+  {
+    "cluster": 22,
+    "size": 101,
+    "top_categories": {
+      "comp.sys.mac.hardware": 35,
+      "comp.os.ms-windows.misc": 22,
+      "misc.forsale": 15,
+      "sci.electronics": 13,
+      "comp.sys.ibm.pc.hardware": 11
+    },
+    "mean_entropy": 0.03585355599653278
+  },
+  {
+    "cluster": 23,
+    "size": 675,
+    "top_categories": {
+      "talk.politics.mideast": 533,
+      "alt.atheism": 89,
+      "talk.politics.misc": 18,
+      "soc.religion.christian": 12,
+      "talk.politics.guns": 12
+    },
+    "mean_entropy": 0.021983795942111587
+  },
+  {
+    "cluster": 24,
+    "size": 559,
+    "top_categories": {
+      "sci.electronics": 372,
+      "sci.crypt": 40,
+      "rec.autos": 32,
+      "rec.motorcycles": 32,
+      "sci.space": 26
+    },
+    "mean_entropy": 0.17030628927310668
+  }
+]

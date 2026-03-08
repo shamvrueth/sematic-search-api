@@ -1,0 +1,142 @@
+[
+  {
+    "doc_id":"doc_12781",
+    "category":"sci.electronics",
+    "dominant_cluster":10,
+    "cluster_entropy":1.3658141864,
+    "text_preview":"Subject says it all, though I should specify that I'm looking for solutions\nthat DON'T require me purchasing specific chips, etc....\n\nIn other words, is there some sort of neural network circuit I cou"
+  },
+  {
+    "doc_id":"doc_00089",
+    "category":"alt.atheism",
+    "dominant_cluster":19,
+    "cluster_entropy":1.340768009,
+    "text_preview":"In article <1pik3i$1l4@fido.asd.sgi.com>, livesey@solntze.wpd.sgi.com (Jon Livesey) writes:\n\nRight on, Jon!  Who cares who or whose, as long as it works for the individual.\nBut don't try to impose tho"
+  },
+  {
+    "doc_id":"doc_03666",
+    "category":"comp.sys.ibm.pc.hardware",
+    "dominant_cluster":21,
+    "cluster_entropy":1.3281292771,
+    "text_preview":"*** On 04-20-93  21:25, Larry Henson had the unmitigated gall to say this:\n\n LH> Hello, I am trying to hook an Apple Imagewriter to my IBM Clone.\n LH> I seem to have a problem configuring my lpt port "
+  },
+  {
+    "doc_id":"doc_12572",
+    "category":"sci.electronics",
+    "dominant_cluster":10,
+    "cluster_entropy":1.3235555977,
+    "text_preview":"Bill Willis (willisw@willisw.ENG.CLEMSON.edu) wrote:\n: I have notice a lot of electronics questions by people who are obviously not \n: \"tuned-in\" to electronics.  Many of them have rather simple answe"
+  },
+  {
+    "doc_id":"doc_15184",
+    "category":"soc.religion.christian",
+    "dominant_cluster":19,
+    "cluster_entropy":1.2979691753,
+    "text_preview":"A reply to a post by kilroy@gboro.rowan.edu (aka Nancy's Sweetheart): \n\n?Human brains are infested with sin, and they can only be trusted\n?in very limited circumstances.\n\nI would beg to differ with yo"
+  },
+  {
+    "doc_id":"doc_03176",
+    "category":"comp.sys.ibm.pc.hardware",
+    "dominant_cluster":10,
+    "cluster_entropy":1.2295149681,
+    "text_preview":"Hiya all,\n\t\n\tI realise this has little to do with pc's but it does have a lot to do\n\twith hardware....\n\n\tSo, has nay of you heard of a computer called the Connection Machine.\n\tIf so, could you e-mail "
+  },
+  {
+    "doc_id":"doc_09439",
+    "category":"rec.sport.baseball",
+    "dominant_cluster":13,
+    "cluster_entropy":1.203311719,
+    "text_preview":"Yes, I know this is not Rec.music, (as someone has already pointed out, thanks I know that), I'm trying to get a random sample and also I'm desperate for respones.\nSo please, don't mail me complaining"
+  },
+  {
+    "doc_id":"doc_12557",
+    "category":"sci.electronics",
+    "dominant_cluster":13,
+    "cluster_entropy":1.190477282,
+    "text_preview":"I have notice a lot of electronics questions by people who are obviously not \n\"tuned-in\" to electronics.  Many of them have rather simple answers, and \nmany of them require a circuit diagram.\n\nRather "
+  },
+  {
+    "doc_id":"doc_03840",
+    "category":"comp.sys.ibm.pc.hardware",
+    "dominant_cluster":17,
+    "cluster_entropy":1.1801154366,
+    "text_preview":"In article <C5t53q.6Iq@dove.nist.gov> livigni@bldrdoc.gov (David livigni 303-497-5898) writes:\n\nYes, it's easy to use. It's just like an ordinary controller.\nYou don't have to change the bios config.\n"
+  },
+  {
+    "doc_id":"doc_12277",
+    "category":"sci.electronics",
+    "dominant_cluster":21,
+    "cluster_entropy":1.1726594455,
+    "text_preview":"We'll let you live, but just this once....\n\nThere's more to a real \"storage\" scope than just a long-persistence\nphosphor.  Actually, the phosphor ISN'T usually anything special at all;\nwhat makes a st"
+  },
+  {
+    "doc_id":"doc_08994",
+    "category":"rec.motorcycles",
+    "dominant_cluster":1,
+    "cluster_entropy":1.1706070105,
+    "text_preview":"i saw this posted and it brings an interesting event to mind .....\n\nIn article <mdennie.735508147@beryllium> mdennie@xerox.com (Matt Dennie) writes:\n\na few weeks ago i was in the DMV with ken. i was s"
+  },
+  {
+    "doc_id":"doc_16764",
+    "category":"talk.politics.guns",
+    "dominant_cluster":5,
+    "cluster_entropy":1.1685372225,
+    "text_preview":"In article <C59BIE.4zL@undergrad.math.uwaterloo.ca>, papresco@undergrad.math.uwaterloo.ca (Paul Prescod) writes:\n|> In article <1993Apr8.193321.12753@anasazi.com> john@anasazi.com (John R. Moore) writ"
+  },
+  {
+    "doc_id":"doc_03938",
+    "category":"comp.sys.ibm.pc.hardware",
+    "dominant_cluster":17,
+    "cluster_entropy":1.1660953017,
+    "text_preview":"In <62890018@hpsgm2.sgp.hp.com> taybh@hpsgm2.sgp.hp.com (Beng Hang TAY) writes:\n\nThe VL-IDE Adapter can be much faster then the normal IDE, it depends on the\ndrive you use and the board you use. I am "
+  },
+  {
+    "doc_id":"doc_01774",
+    "category":"comp.graphics",
+    "dominant_cluster":13,
+    "cluster_entropy":1.1630721292,
+    "text_preview":"I am considering creating a \"demo\" for the IBM PC for my band.\nI would like to combine interesting graphics and a sample of \nmy music in the program.  I have seen things like this\ndone for other platf"
+  },
+  {
+    "doc_id":"doc_03463",
+    "category":"comp.sys.ibm.pc.hardware",
+    "dominant_cluster":21,
+    "cluster_entropy":1.1620515129,
+    "text_preview":"In article 6819@sol.ctr.columbia.edu, penev@rockefeller.edu (Penio Penev) writes:\n\nI also have a DX2\/66 and a Maxtor 212. I have a local bus IDE controller (generic) and I get\n985 KB\/s. I tried swappi"
+  },
+  {
+    "doc_id":"doc_06519",
+    "category":"misc.forsale",
+    "dominant_cluster":24,
+    "cluster_entropy":1.1605487067,
+    "text_preview":"Hi All\n\nI have a Korg DVP-1 for sale for $300.00 + shipping.  For those who've not\nhad the pleasure:\n\nIt is a MIDI controlled (no keyboard of it's own) rackmountable digital voice\nprocessor.  What can"
+  },
+  {
+    "doc_id":"doc_13203",
+    "category":"sci.med",
+    "dominant_cluster":21,
+    "cluster_entropy":1.1514552548,
+    "text_preview":"In article <C5JsM5.Hrs@lznj.lincroftnj.ncr.com> rjf@lzsc.lincroftnj.ncr.com\n (51351[efw]-Robert Feddeler(MT4799)T343) writes:\n\nNo, this is wrong.  The purpose is to preserve the substances in\nthe tube"
+  },
+  {
+    "doc_id":"doc_11565",
+    "category":"sci.crypt",
+    "dominant_cluster":19,
+    "cluster_entropy":1.1444825264,
+    "text_preview":"In article <1993Apr22.065357.9667@cs.aukuni.ac.nz> pgut1@cs.aukuni.ac.nz (Peter Gutmann) writes:\n[article deleted]\n\nIt sounds like a joke (but then the war on drugs has always been a joke...).\n\n-- \n--"
+  },
+  {
+    "doc_id":"doc_12595",
+    "category":"sci.electronics",
+    "dominant_cluster":13,
+    "cluster_entropy":1.1369286214,
+    "text_preview":"klink@cbnewsl.cb.att.com (steven.r.klinkner) writes:\n\nWell, you might try the A.R.R.L.'s license study guides. For example, my\nAdvanced Class study guide has lots and lots of good RF and electronics\nt"
+  },
+  {
+    "doc_id":"doc_06993",
+    "category":"misc.forsale",
+    "dominant_cluster":4,
+    "cluster_entropy":1.1284563996,
+    "text_preview":"I just received a music software WinSong for Windows and found that it needs\na MIDI\/sound card (Sound Blaster Pro is preferred) to have its fantastic\nfeatures show up. As I don't have the plan to add "
+  }
+]
