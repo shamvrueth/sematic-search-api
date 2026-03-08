@@ -18,10 +18,6 @@ notebooks/
 .DS_Store
 Thumbs.db
 
-# Docker
-Dockerfile
-docker-compose.yml
-
 # IDE
 .vscode/
 .idea/
